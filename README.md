@@ -1,7 +1,3 @@
-# HI-TECH C Compiler Linux
-
-### Microchip Archives Link
-https://ww1.microchip.com/downloads/Secure/en/DeviceDoc/picc-9.83-linux.zip
-https://ww1.microchip.com/downloads/Secure/en/DeviceDoc/picc-9_82-linux.zip
-https://ww1.microchip.com/downloads/Secure/en/DeviceDoc/picc-18-pro_9.66.8870-linux.zip
-https://ww1.microchip.com/downloads/Secure/en/DeviceDoc/PICC_18_9_80_linux_run.zip
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5d6296c9d7c86975be391a3aea827d542b2d6d96721d8f09991a2605d8b4e06
+size 379
